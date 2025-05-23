@@ -1,0 +1,92 @@
+# 👋 Terve! Olen Ron Gustafsson
+
+🧑‍💻 ICT-alan tuleva ammattilainen  
+📍 Kotoisin Suomesta ja kotitoimistoni sijaitsee Riihimäellä sekä Klaukkalassa.
+
+---
+
+## 💡 Minusta lyhyesti
+
+Olen ohjelmistokehitystä opiskeleva alanvaihtaja, jolla on **loputon halu oppia** ja **innostus luoda ratkaisuja, jotka oikeasti hyödyttävät asiakkaita**. Asiakkaathan lopulta maksavat palkkamme – ja ansaitsevat toimivia, laadukkaita ratkaisuja. Laatu tekemisessä merkitsee minulle kaikkea - ei vain suoritus. 
+
+Uskon, että hyvällä suunnittelulla, huolellisella toteutuksella ja asiakasta ymmärtävällä otteella saavutetaan tyytyväisiä käyttäjiä – ja vältetään turhaa resurssien haaskausta.
+
+> **"Miksi tehdä työ hyvin, kun sen voi tehdä täydellisesti?"** 🫵
+
+> **Tavoitteena seuraavaksi oppia alalla työskentelystä ja tulla Full-Stack- kehittäjäksi**
+
+---
+
+### 🔭 Olen erityisen kiinnostunut
+
+- **ohjelmisto- ja sovelluskehityksestä**
+- **web-teknologioista**
+- **datan ja analytiikan hyödyntämisestä**
+- **liiketaloudesta ja digitaalisen markkinoinnin hyödyntämisestä**
+
+🎯 Vedonlyönnin maailmassa puuhastelu on antanut minulle vahvan käytännön ymmärryksen datan merkityksestä. Iltaisin lampaiden sijaan lasken kertoimia ja todennäköisyyksiä – joten voidaan kai sanoa, että **`int`** ja **`float`** ovat erityisen läheisiä ystäviäni. 😉
+
+---
+
+## 🧰 Käytössäni 
+**(tarvitsisin uuden SSD:n pääkoppaani muistaakseni kaiken)**
+
+- Windows & Linux
+- Microsoft 365 Copilot
+- HTML, CSS & JavaScript
+- jQuery, Phaser, Pygame
+- Python
+- Git & GitHub
+- AI-työkalut
+
+**Seuraavaksi**
+
+- React
+- Django
+- PHP
+
+---
+
+## 🚀 Projekteja
+
+### 🧠 Opintosuoritusote-ohjelma
+[opintosuoritusote-ohjelma](https://github.com/Ron-Gustafsson/opintosuoritusote-ohjelma)  
+📋 Python-sovellus, joka hallinnoi opiskelijan kurssitietoja (nimi, tyyppi, OSP, arvosana).  
+🔎 Sisältää mm. validointeja, JSON-tallennuksen ja käyttöliittymän komentoriville.
+
+### 🎮 Maze of Shadows
+[Maze-Of-Shadows](https://github.com/Ron-Gustafsson/Maze-Of-Shadows)  
+🕹️ Pygamella toteutettu pimeä labyrinttipeli, jossa kerätään kolikoita ja väistellään hirviöitä.  
+🧩 Harjoittelin pelitilojen hallintaa, valaistusefektejä ja pelilogiikkaa.
+
+### 🧮 Betting Stake Calculator
+[betting-stake-calculator](https://github.com/Ron-Gustafsson/betting-stake-calculator)  
+💸 Työkalu vedonlyönnin panostason laskemiseen eri strategioilla.  
+📊 Sovellus auttaa ymmärtämään riskiä, bankrollin hallintaa ja tuotto-odotuksia.
+
+### 🌐 Oma sivusto
+[oma-sivusto](https://ron-gustafsson.github.io/oma-sivusto/)  
+📄 Verkkosivuharjoituksia HTML:llä, CSS:llä ja JavaScriptillä – matka web-kehityksen alkuun. (Varoitus: toteutus saattaa naurattaa, jostain se on kumminkin aloitettava) 
+🔗 [Katso julkaistu sivu tästä](https://ron-gustafsson.github.io/oma-sivusto/)
+
+### 📘 Portfolio-sivu (tulossa jahka kerkiää)
+[profile](https://github.com/Ron-Gustafsson/profile)  
+📝 CV/profiilisivu HTML:llä. Yksinkertainen esittelysivu oman osaamisen tiivistämiseen.
+
+---
+
+## 🔗 Linkit
+
+- 💼 [LinkedIn-profiili](https://www.linkedin.com/in/ron-gustafsson) – ota yhteyttä tai käy kurkkaamassa tarkemmin taustani
+- 🌐 [Blogikokeilu: Juhlavaan arkeen](https://juhlavaanarkeen.blogspot.com/) – ruuat on oikeesti hyviä 😄
+- ✉️ Sähköposti: ron.gustafsson@gmail.com
+- 📱 WhatsApp: +358 45 140 0009
+
+  **Voit nykäistä hihasta LinkedInissä tai laittaa viestiä – vastaan aina kun en likaa käsiäni ulkohommissa!!**
+---
+
+## 🤓 Fun fact
+<p align="center">
+  <img src="./dev_vitsi.png" alt="Dark mode -vitsi" width="600">
+</p>
+---
