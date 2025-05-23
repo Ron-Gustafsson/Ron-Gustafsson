@@ -70,8 +70,8 @@ Uskon, että hyvällä suunnittelulla, huolellisella toteutuksella ja asiakasta 
 🔗 [Katso julkaistu sivu tästä](https://ron-gustafsson.github.io/oma-sivusto/)
 
 ### 📘 Portfolio-sivu (tulossa jahka kerkiää)
-[profile](https://github.com/Ron-Gustafsson/profile)  
-📝 CV/profiilisivu HTML:llä. Yksinkertainen esittelysivu oman osaamisen tiivistämiseen.
+[Portfolio](https://ron-gustafsson.github.io/profile/)  
+📝 Portfolio/CV sivu HTML:llä. Yksinkertainen esittelysivu oman osaamisen tiivistämiseen.
 
 ---
 
