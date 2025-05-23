@@ -93,4 +93,3 @@ Uskon, että hyvällä suunnittelulla, huolellisella toteutuksella ja asiakasta 
 <p align="center">
   <img src="./dev_vitsi.png" alt="Dark mode -vitsi" width="600">
 </p>
----
