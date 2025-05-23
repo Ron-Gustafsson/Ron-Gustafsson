@@ -51,26 +51,31 @@ Uskon, että hyvällä suunnittelulla, huolellisella toteutuksella ja asiakasta 
 
 ### 🧠 Opintosuoritusote-ohjelma
 [opintosuoritusote-ohjelma](https://github.com/Ron-Gustafsson/opintosuoritusote-ohjelma)  
+
 📋 Python-sovellus, joka hallinnoi opiskelijan kurssitietoja (nimi, tyyppi, OSP, arvosana).  
 🔎 Sisältää mm. validointeja, JSON-tallennuksen ja käyttöliittymän komentoriville.
 
 ### 🎮 Maze of Shadows
 [Maze-Of-Shadows](https://github.com/Ron-Gustafsson/Maze-Of-Shadows)  
+
 🕹️ Pygamella toteutettu pimeä labyrinttipeli, jossa kerätään kolikoita ja väistellään hirviöitä.  
 🧩 Harjoittelin pelitilojen hallintaa, valaistusefektejä ja pelilogiikkaa.
 
 ### 🧮 Betting Stake Calculator
 [betting-stake-calculator](https://github.com/Ron-Gustafsson/betting-stake-calculator)  
+
 💸 Työkalu vedonlyönnin panostason laskemiseen eri strategioilla.  
 📊 Sovellus auttaa ymmärtämään riskiä, bankrollin hallintaa ja tuotto-odotuksia.
 
 ### 🌐 Oma sivusto
 [oma-sivusto](https://ron-gustafsson.github.io/oma-sivusto/)  
+
 📄 Verkkosivuharjoituksia HTML:llä, CSS:llä ja JavaScriptillä – matka web-kehityksen alkuun. (Varoitus: toteutus saattaa naurattaa, jostain se on kumminkin aloitettava) 
 🔗 [Katso julkaistu sivu tästä](https://ron-gustafsson.github.io/oma-sivusto/)
 
 ### 📘 Portfolio-sivu (tulossa jahka kerkiää)
 [Portfolio](https://ron-gustafsson.github.io/profile/)  
+
 📝 Portfolio/CV sivu HTML:llä. Yksinkertainen esittelysivu oman osaamisen tiivistämiseen.
 
 ---
