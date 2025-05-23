@@ -7,9 +7,10 @@
 
 ## 💡 Minusta lyhyesti
 
-Olen ohjelmistokehitystä opiskeleva alanvaihtaja, jolla on **loputon halu oppia** ja **innostus luoda ratkaisuja, jotka oikeasti hyödyttävät asiakkaita**. Asiakkaathan lopulta maksavat palkkamme – ja ansaitsevat toimivia, laadukkaita ratkaisuja. Laatu tekemisessä merkitsee minulle kaikkea - ei vain suoritus. 
+Olen ohjelmistokehitystä opiskeleva alanvaihtaja, jolla on **loputon halu oppia** ja **innostus luoda ratkaisuja, jotka oikeasti hyödyttävät asiakkaita**. Asiakkaathan lopulta maksavat palkkamme – ja ansaitsevat toimivia, laadukkaita ratkaisuja. Laatu tekemisessä merkitsee minulle kaikkea - ei vain suoriutuminen työstä. 
 
-Uskon, että hyvällä suunnittelulla, huolellisella toteutuksella ja asiakasta ymmärtävällä otteella saavutetaan tyytyväisiä käyttäjiä – ja vältetään turhaa resurssien haaskausta.
+Uskon, että hyvällä suunnittelulla, huolellisella toteutuksella ja asiakasta ymmärtävällä otteella saavutetaan tyytyväisiä käyttäjiä – 
+ja vältetään turhaa resurssien haaskausta.
 
 > **"Miksi tehdä työ hyvin, kun sen voi tehdä täydellisesti?"** 🫵
 
@@ -83,8 +84,8 @@ Uskon, että hyvällä suunnittelulla, huolellisella toteutuksella ja asiakasta 
 
 - 💼 [LinkedIn-profiili](https://www.linkedin.com/in/ron-gustafsson) – ota yhteyttä tai käy kurkkaamassa tarkemmin taustani
 - 🌐 [Blogikokeilu: Juhlavaan arkeen](https://juhlavaanarkeen.blogspot.com/) – ruuat on oikeesti hyviä 😄
-- ✉️ Sähköposti: ron.gustafsson@gmail.com
-- 📱 WhatsApp: +358 45 140 0009
+- ✉️ **Sähköposti:** ron.gustafsson@gmail.com
+- 📱 **WhatsApp:** +358 45 140 0009
 
   **Voit nykäistä hihasta LinkedInissä tai laittaa viestiä – vastaan aina kun en likaa käsiäni ulkohommissa!!**
 ---
