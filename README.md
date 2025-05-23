@@ -29,21 +29,21 @@ Uskon, että hyvällä suunnittelulla, huolellisella toteutuksella ja asiakasta 
 ---
 
 ## 🧰 Käytössäni 
-**(tarvitsisin uuden SSD:n pääkoppaani muistaakseni kaiken)**
+(tarvitsisin uuden SSD:n pääkoppaani muistaakseni kaiken)
 
-- Windows & Linux
-- Microsoft 365 Copilot
-- HTML, CSS & JavaScript
-- jQuery, Phaser, Pygame
-- Python
-- Git & GitHub
-- AI-työkalut
+- **Windows & Linux**
+- **Microsoft 365 Copilot**
+- **HTML, CSS & JavaScript**
+- **jQuery, Phaser, Pygame**
+- **Python**
+- **Git & GitHub**
+- **AI-työkalut**
 
 **Seuraavaksi**
 
-- React
-- Django
-- PHP
+- **React**
+- **Django**
+- **PHP**
 
 ---
 
@@ -91,5 +91,5 @@ Uskon, että hyvällä suunnittelulla, huolellisella toteutuksella ja asiakasta 
 
 ## 🤓 Fun fact
 <p align="center">
-  <img src="./dev_vitsi.png" alt="Dark mode -vitsi" width="600">
+  <img src="./dev_vitsi.png" alt="Dark mode -vitsi" width="600"  height="700">
 </p>
