@@ -68,10 +68,9 @@ Uskon, että hyvällä suunnittelulla, huolellisella toteutuksella ja asiakasta 
 📊 Sovellus auttaa ymmärtämään riskiä, bankrollin hallintaa ja tuotto-odotuksia.
 
 ### 🌐 Oma sivusto
-[oma-sivusto](https://ron-gustafsson.github.io/oma-sivusto/)  
+🔗 [Katso julkaistu sivu tästä](https://ron-gustafsson.github.io/oma-sivusto/)
 
 📄 Verkkosivuharjoituksia HTML:llä, CSS:llä ja JavaScriptillä – matka web-kehityksen alkuun. (Varoitus: toteutus saattaa naurattaa, jostain se on kumminkin aloitettava) 
-🔗 [Katso julkaistu sivu tästä](https://ron-gustafsson.github.io/oma-sivusto/)
 
 ### 📘 Portfolio-sivu (tulossa jahka kerkiää)
 [Portfolio](https://ron-gustafsson.github.io/profile/)  
