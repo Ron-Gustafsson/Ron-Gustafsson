@@ -29,22 +29,49 @@ ja vältetään turhaa resurssien haaskausta.
 
 ---
 
-## 🧰 Käytössäni 
-(tarvitsisin uuden SSD:n pääkoppaani muistaakseni kaiken)
+## 🧰 Käytössäni (osa enemmän ja osa vähemmän - kaikki kiinnostaa)  
+*(tarvitsisin uuden SSD:n pääkoppaani muistaakseni kaiken)*
 
-- **Windows & Linux**
-- **Microsoft 365 Copilot**
-- **HTML, CSS & JavaScript**
-- **jQuery, Phaser, Pygame**
-- **Python**
-- **Git & GitHub**
-- **AI-työkalut**
+### 💻 Käyttöjärjestelmät & ympäristöt  
+- Windows  
+- Linux (Ubuntu)  
+- XAMPP  
+- Ngrok
 
+### 📄 Toimisto & tuottavuus  
+- Microsoft 365 Copilot  
+- AI-työkalut (mm. ChatGPT, Gemini, Copilot)
+
+### 🌐 Web-kehitys  
+- HTML  
+- CSS  
+- Bootstrap  
+- JavaScript  
+- jQuery  
+- PHP
+
+### ⚙️ Backend & tietokannat  
+- Python  
+- SQL  
+- MySQL  
+- MariaDB  
+- phpMyAdmin
+
+### 🎮 Pelikehitys  
+- Pygame  
+- Phaser
+
+### 🔧 Versionhallinta & työkalut  
+- Git  
+- GitHub  
+- VS Code
+  
 **Seuraavaksi**
 
 - **React**
 - **Django**
-- **PHP**
+- **WordPress & WooCommerce**
+- - **MOOC - Full Stack open**
 
 ---
 
