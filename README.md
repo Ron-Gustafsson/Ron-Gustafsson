@@ -82,15 +82,10 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 ## 🚀 Projekteja
 
 ### 🖼️ AI Art Gallery  
-[ai-art-gallery (GitHub repo)](https://github.com/Ron-Gustafsson/ai-art-gallery) 
-🔗 [Katso galleria tästä](https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/see_pictures_here.md)
+🔗 [ai-art-gallery (GitHub repo)](https://github.com/Ron-Gustafsson/ai-art-gallery)   
+📸 [Katso galleria tästä](https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/see_pictures_here.md)
 
-🎨 Tekoälyllä luotujen taideteosten kokoelma — yhdistelmä uteliaisuutta ja luovuutta, jossa ideat heräävät eloon tarkoin hiotuin promptein.
-📸 Kuvien esikatselut kahden sarakkeessa, ja linkit täysikokoisiin versioihin.  
-✨ Galleriaa täydennetään jatkuvasti uusilla visuaalisilla kokeiluilla.
-
-🎨 Tekoälyllä luotujen taideteosten kokoelma — yhdistelmä luovuutta, uteliaisuutta ja koodin riemua.
-📸 Kuvien esikatselut kahden sarakkeessa, ja linkit täysikokoisiin versioihin.
+🎨 Tekoälyllä luotujen taideteosten kokoelma — yhdistelmä uteliaisuutta ja luovuutta, jossa ideat heräävät eloon tarkoin hiotuin promptein. 
 ✨ Galleriaa täydennetään jatkuvasti uusilla visuaalisilla kokeiluilla.
 
 ### 🧠 Opintosuoritusote-ohjelma
