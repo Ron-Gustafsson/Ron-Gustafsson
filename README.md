@@ -82,7 +82,8 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 ## 🚀 Projekteja
 
 ### 🖼️ AI Art Gallery  
-🔗 [Ai-Art-Gallery (github repo)](https://github.com/Ron-Gustafsson/ai-art-gallery)   
+🔗 [Ai-Art-Gallery (github repo)](https://github.com/Ron-Gustafsson/ai-art-gallery)
+
 📸 [Katso galleria tästä](https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/see_pictures_here.md)
 
 🎨 Tekoälyllä luotujen taideteosten kokoelma — yhdistelmä uteliaisuutta ja luovuutta, jossa ideat heräävät eloon tarkoin hiotuin promptein.  
