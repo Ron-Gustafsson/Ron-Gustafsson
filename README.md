@@ -75,7 +75,7 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 - **React**
 - **Django**
 - **WordPress & WooCommerce**
-- - **MOOC - Full Stack open**
+- **MOOC - Full Stack open**
 
 ---
 
