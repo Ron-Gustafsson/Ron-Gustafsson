@@ -81,6 +81,14 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 
 ## 🚀 Projekteja
 
+🖼️ AI Art Gallery
+[ai-art-gallery](https://github.com/Ron-Gustafsson/ai-art-gallery)
+🔗 Katso galleria tästä
+
+🎨 Tekoälyllä luotujen taideteosten kokoelma — yhdistelmä luovuutta, uteliaisuutta ja koodin riemua.
+📸 Kuvien esikatselut kahden sarakkeessa, ja linkit täysikokoisiin versioihin.
+✨ Galleriaa täydennetään jatkuvasti uusilla visuaalisilla kokeiluilla.
+
 ### 🧠 Opintosuoritusote-ohjelma
 [opintosuoritusote-ohjelma](https://github.com/Ron-Gustafsson/opintosuoritusote-ohjelma)  
 
@@ -102,7 +110,7 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 ### 🌐 Oma sivusto
 🔗 [Katso julkaistu sivu tästä](https://ron-gustafsson.github.io/oma-sivusto/)
 
-📄 Verkkosivuharjoituksia HTML:llä, CSS:llä ja JavaScriptillä – matka web-kehityksen alkuun. (Varoitus: toteutus saattaa naurattaa, jostain se on kumminkin aloitettava) 
+📄 Verkkosivuharjoituksia HTML:llä, CSS:llä ja JavaScriptillä – matka web-kehityksen alkuun. (Varoitus: toteutus saattaa naurattaa, jostain se on kumminkin aloitettava)
 
 ### 📘 Portfolio-sivu (tulossa jahka kerkiää)
 [Portfolio](https://ron-gustafsson.github.io/profile/)  
