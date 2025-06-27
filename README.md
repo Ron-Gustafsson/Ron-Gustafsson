@@ -7,14 +7,20 @@
 
 ## 💡 Minusta lyhyesti
 
-Olen ohjelmistokehitystä opiskeleva alanvaihtaja, jolla on **loputon halu oppia** ja **innostus luoda ratkaisuja, jotka oikeasti hyödyttävät asiakkaita**. Asiakkaathan lopulta maksavat palkkamme – ja ansaitsevat toimivia, laadukkaita ratkaisuja. Laatu tekemisessä merkitsee minulle kaikkea - ei vain suoriutuminen työstä. 
+Olen ohjelmistokehitystä opiskeleva alanvaihtaja, jota motivoi  
+**jatkuva oppiminen** ja **innostus kehittää ratkaisuja**, joilla on aitoa arvoa loppukäyttäjälle.
 
-Uskon, että hyvällä suunnittelulla, huolellisella toteutuksella ja asiakasta ymmärtävällä otteella saavutetaan tyytyväisiä käyttäjiä – 
-ja vältetään turhaa resurssien haaskausta.
+Uskon, että **laatu, suunnitelmallisuus ja asiakaslähtöisyys**  
+ovat avaimia kestävään ohjelmistokehitykseen.
 
-> **"Miksi tehdä työ hyvin, kun sen voi tehdä täydellisesti?"** 🫵
+Nopeus on tärkeää – mutta ei koskaan laadun kustannuksella.  
+**Laatu tekemisessä merkitsee minulle kaikkea – ei vain suoriutuminen työstä.**
 
-> **Tavoitteena seuraavaksi oppia alalla työskentelystä ja tulla Full-Stack- kehittäjäksi**
+Tavoitteeni on aina ymmärtää asiakkaan tarpeet,  
+toimittaa harkittua koodia ja välttää turhaa resurssien tuhlausta.
+
+> **"Miksi tehdä työ hyvin, kun sen voi tehdä täydellisesti?"** 🫵  
+> **Tavoitteena seuraavaksi oppia alalla työskentelystä ja tulla Full-Stack-kehittäjäksi**
 
 ---
 
