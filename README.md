@@ -17,6 +17,7 @@ Nopeus on tärkeää – mutta ei koskaan laadun kustannuksella.
 Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harkittuja ratkaisuja – ja samalla varmistaa, että aikaa ja resursseja käytetään viisaasti.
 
 > **"Miksi tehdä työ hyvin, kun sen voi tehdä täydellisesti?"** 🫵  
+
 > **Tavoitteena seuraavaksi oppia alalla työskentelystä ja tulla Full-Stack-kehittäjäksi**
 
 ---
