@@ -87,7 +87,7 @@ Iltaisin lampaiden sijaan lasken kertoimia ja todennäköisyyksiä – joten voi
 ## 🚀 Projekteja
 
 ### 📄 Resume Management
-🔗 [GitHub-repo](https://github.com/Ron-Gustafsson/resume-management) 
+🔗 [GitHub-repo](https://github.com/Ron-Gustafsson/resume-database) 
 
 🗂️ PHP- ja MySQL-pohjainen järjestelmä, jolla hallitaan käyttäjäprofiileja, työkokemuksia ja koulutustietoja.  
 ⚡ Toteutettu mm. Handlebars.js- ja AJAX-tekniikoilla modernin käyttöliittymän luomiseksi.  
