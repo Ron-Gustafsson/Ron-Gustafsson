@@ -87,7 +87,7 @@ Iltaisin lampaiden sijaan lasken kertoimia ja todennäköisyyksiä – joten voi
 ## 🚀 Projekteja
 
 ### 📄 Resume Management
-[🔗 GitHub-repo](https://github.com/Ron-Gustafsson/resume-management) 
+🔗 [GitHub-repo](https://github.com/Ron-Gustafsson/resume-management) 
 
 🗂️ PHP- ja MySQL-pohjainen järjestelmä, jolla hallitaan käyttäjäprofiileja, työkokemuksia ja koulutustietoja.  
 ⚡ Toteutettu mm. Handlebars.js- ja AJAX-tekniikoilla modernin käyttöliittymän luomiseksi.  
@@ -100,23 +100,22 @@ Iltaisin lampaiden sijaan lasken kertoimia ja todennäköisyyksiä – joten voi
 
 📸 [Katso galleria tästä](https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/see_pictures_here.md)
 
----
-
 🎨 Tekoälyllä luotujen taideteosten kokoelma — yhdistelmä uteliaisuutta ja luovuutta, jossa ideat heräävät eloon tarkoin hiotuin promptein.  
 ✨ Galleriaa täydennetään jatkuvasti uusilla visuaalisilla kokeiluilla.
 
 ---
 
 ### 🧠 Opintosuoritusote-ohjelma
-[🔗 GitHub-repo](https://github.com/Ron-Gustafsson/opintosuoritusote-ohjelma)   
+🔗 [GitHub-repo](https://github.com/Ron-Gustafsson/opintosuoritusote-ohjelma)   
 
+🗂️ **Teknologiat:** Python · JSON 
 📋 Python-sovellus, joka hallinnoi opiskelijan kurssitietoja (nimi, tyyppi, OSP, arvosana).  
 🔎 Sisältää mm. validointeja, JSON-tallennuksen ja käyttöliittymän komentoriville.
 
 ---
 
 ### 🎮 Maze of Shadows
-[🔗 GitHub-repo](https://github.com/Ron-Gustafsson/Maze-Of-Shadows)  
+🔗 [GitHub-repo](https://github.com/Ron-Gustafsson/Maze-Of-Shadows)  
 
 🗂️ **Teknologiat:** Python · Pygame  
 🕹️ Pimeä labyrinttipeli, jossa kerätään kolikoita ja väistellään hirviöitä.  
@@ -125,7 +124,7 @@ Iltaisin lampaiden sijaan lasken kertoimia ja todennäköisyyksiä – joten voi
 ---
 
 ### 🧮 Betting Stake Calculator  
-[🔗 GitHub-repo](https://github.com/Ron-Gustafsson/betting-stake-calculator)  
+🔗 [GitHub-repo](https://github.com/Ron-Gustafsson/betting-stake-calculator)  
 
 🗂️ **Teknologiat:** Python  
 💸 Työkalu vedonlyönnin panostason laskemiseen eri vedonlyöntistrategioilla.  
