@@ -39,8 +39,10 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 ### 💻 Käyttöjärjestelmät & ympäristöt  
 - Windows  
 - Linux (Ubuntu)  
-- XAMPP  
-- Ngrok
+
+  ### 🛠 Kehitysympäristöt & palvelut
+- 📦 XAMPP  
+- 🌐 Ngrok 
 
 ### 📄 Toimisto & tuottavuus  
 - Microsoft 365 Copilot  
@@ -81,6 +83,13 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 
 ## 🚀 Projekteja
 
+### 📄 Resume Management
+[resume-management](https://github.com/Ron-Gustafsson/resume-management)  
+
+🗂️ PHP- ja MySQL-pohjainen järjestelmä, jolla hallitaan käyttäjäprofiileja, työkokemuksia ja koulutustietoja.  
+⚡ Toteutettu mm. Handlebars.js- ja AJAX-tekniikoilla modernin käyttöliittymän luomiseksi.  
+🔑 Sisältää kirjautumisjärjestelmän, tietojen validoinnin sekä JSON-näkymän profiileista.
+
 ### 🖼️ AI Art Gallery  
 🔗 [Ai-Art-Gallery (github repo)](https://github.com/Ron-Gustafsson/ai-art-gallery)
 
@@ -110,7 +119,8 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 ### 🌐 Oma sivusto
 🔗 [Katso julkaistu sivu tästä](https://ron-gustafsson.github.io/oma-sivusto/)
 
-📄 Verkkosivuharjoituksia HTML:llä, CSS:llä ja JavaScriptillä – matka web-kehityksen alkuun. (Varoitus: toteutus saattaa naurattaa, jostain se on kumminkin aloitettava)
+📄 Verkkosivuharjoituksia HTML:llä, CSS:llä ja JavaScriptillä – matka web-kehityksen alkuun. 
+(Varoitus: toteutus saattaa naurattaa, jostain se on kumminkin aloitettava)
 
 ### 📘 Portfolio-sivu (tulossa jahka kerkiää)
 [Portfolio](https://ron-gustafsson.github.io/profile/)  
