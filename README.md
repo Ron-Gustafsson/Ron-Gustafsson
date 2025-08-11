@@ -1,4 +1,6 @@
-# 👋 Terve! Olen Ron Gustafsson
+# 👋 Terve! 
+
+# Olen Ron Gustafsson
 
 🧑‍💻 ICT-alan tuleva ammattilainen  
 📍 Kotoisin Suomesta ja kotitoimistoni sijaitsee Riihimäellä sekä Klaukkalassa.
@@ -9,7 +11,7 @@
 
 Olen ohjelmistokehitystä opiskeleva alanvaihtaja, jota motivoi  **jatkuva oppiminen** ja **innostus kehittää ratkaisuja**, joilla on aitoa arvoa loppukäyttäjälle.
 
-Uskon, että **laatu, suunnitelmallisuus ja asiakaslähtöisyys**  ovat avaimia kestävään ohjelmistokehitykseen.
+Uskon, että **suunnitelmallisuus, laatu ja käyttäjäkeskeinen kehitys**  ovat avaimia kestävään ohjelmistokehitykseen.
 
 Nopeus on tärkeää – mutta ei koskaan laadun kustannuksella.  
 **Laatu tekemisessä merkitsee minulle kaikkea – ei vain suoriutuminen työstä.**
@@ -29,7 +31,8 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 - **datan ja analytiikan hyödyntämisestä**
 - **liiketaloudesta ja digitaalisen markkinoinnin hyödyntämisestä**
 
-🎯 Vedonlyönnin maailmassa puuhastelu on antanut minulle vahvan käytännön ymmärryksen datan merkityksestä. Iltaisin lampaiden sijaan lasken kertoimia ja todennäköisyyksiä – joten voidaan kai sanoa, että **`int`** ja **`float`** ovat erityisen läheisiä ystäviäni. 😉
+🎯 Vedonlyönnin maailmassa puuhastelu on antanut minulle vahvan käytännön ymmärryksen datan merkityksestä. 
+Iltaisin lampaiden sijaan lasken kertoimia ja todennäköisyyksiä – joten voidaan kai sanoa, että **`int`** ja **`float`** ovat erityisen läheisiä ystäviäni. 😉
 
 ---
 
@@ -40,7 +43,7 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 - Windows  
 - Linux (Ubuntu)  
 
-  ### 🛠 Kehitysympäristöt & palvelut
+### 🛠 Kehitysympäristöt & palvelut
 - 📦 XAMPP  
 - 🌐 Ngrok 
 
@@ -84,43 +87,60 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 ## 🚀 Projekteja
 
 ### 📄 Resume Management
-[resume-management](https://github.com/Ron-Gustafsson/resume-management)  
+[🔗 GitHub-repo](https://github.com/Ron-Gustafsson/resume-management) 
 
 🗂️ PHP- ja MySQL-pohjainen järjestelmä, jolla hallitaan käyttäjäprofiileja, työkokemuksia ja koulutustietoja.  
 ⚡ Toteutettu mm. Handlebars.js- ja AJAX-tekniikoilla modernin käyttöliittymän luomiseksi.  
 🔑 Sisältää kirjautumisjärjestelmän, tietojen validoinnin sekä JSON-näkymän profiileista.
+
+---
 
 ### 🖼️ AI Art Gallery  
 🔗 [Ai-Art-Gallery (github repo)](https://github.com/Ron-Gustafsson/ai-art-gallery)
 
 📸 [Katso galleria tästä](https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/see_pictures_here.md)
 
+---
+
 🎨 Tekoälyllä luotujen taideteosten kokoelma — yhdistelmä uteliaisuutta ja luovuutta, jossa ideat heräävät eloon tarkoin hiotuin promptein.  
 ✨ Galleriaa täydennetään jatkuvasti uusilla visuaalisilla kokeiluilla.
 
+---
+
 ### 🧠 Opintosuoritusote-ohjelma
-[opintosuoritusote-ohjelma](https://github.com/Ron-Gustafsson/opintosuoritusote-ohjelma)  
+[🔗 GitHub-repo](https://github.com/Ron-Gustafsson/opintosuoritusote-ohjelma)   
 
 📋 Python-sovellus, joka hallinnoi opiskelijan kurssitietoja (nimi, tyyppi, OSP, arvosana).  
 🔎 Sisältää mm. validointeja, JSON-tallennuksen ja käyttöliittymän komentoriville.
 
+---
+
 ### 🎮 Maze of Shadows
-[Maze-Of-Shadows](https://github.com/Ron-Gustafsson/Maze-Of-Shadows)  
+[🔗 GitHub-repo](https://github.com/Ron-Gustafsson/Maze-Of-Shadows)  
 
-🕹️ Pygamella toteutettu pimeä labyrinttipeli, jossa kerätään kolikoita ja väistellään hirviöitä.  
-🧩 Harjoittelin pelitilojen hallintaa, valaistusefektejä ja pelilogiikkaa.
+🗂️ **Teknologiat:** Python · Pygame  
+🕹️ Pimeä labyrinttipeli, jossa kerätään kolikoita ja väistellään hirviöitä.  
+🧩 Harjoiteltu pelitilojen hallintaa, valaistusefektejä ja pelilogiikkaa.
 
-### 🧮 Betting Stake Calculator
-[betting-stake-calculator](https://github.com/Ron-Gustafsson/betting-stake-calculator)  
+---
 
-💸 Työkalu vedonlyönnin panostason laskemiseen eri strategioilla.  
+### 🧮 Betting Stake Calculator  
+[🔗 GitHub-repo](https://github.com/Ron-Gustafsson/betting-stake-calculator)  
+
+🗂️ **Teknologiat:** Python  
+💸 Työkalu vedonlyönnin panostason laskemiseen eri vedonlyöntistrategioilla.  
 📊 Sovellus auttaa ymmärtämään riskiä, bankrollin hallintaa ja tuotto-odotuksia.
+
+---
 
 ### 🌐 Oma sivusto
 🔗 [Katso julkaistu sivu tästä](https://ron-gustafsson.github.io/oma-sivusto/)
 
+🗂️ **Teknologiat:** HTML · CSS · JavaScript · Bootstrap
 📄 Verkkosivuharjoituksia HTML:llä, CSS:llä ja JavaScriptillä – matka web-kehityksen alkuun. 
 (Varoitus: toteutus saattaa naurattaa, jostain se on kumminkin aloitettava)
+
+---
 
 ### 📘 Portfolio-sivu (tulossa jahka kerkiää)
 [Portfolio](https://ron-gustafsson.github.io/profile/)  
