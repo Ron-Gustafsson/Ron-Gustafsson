@@ -44,6 +44,7 @@ Iltaisin lampaiden sijaan lasken kertoimia ja todennäköisyyksiä – joten voi
 - Linux (Ubuntu)  
 
 ### 🛠 Kehitysympäristöt & palvelut
+- 🖥️ Oracle VM VirtualBox
 - 📦 XAMPP  
 - 🌐 Ngrok 
 
