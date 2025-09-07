@@ -35,7 +35,7 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 
 Yrityshaaveitakin on jo paperilla liiketoimintasuunnitelman muodossa, vaikka nykyinen taloustilanne näyttää yhtä valoisalta kuin marraskuun iltapäivä Utsjoella. Mutta hei – ei lannistuta! Kuten Juti sanoisi: "mennään eteenpäin!" Nousukausi tulee aina, sen on historia kerta toisensa jälkeen todistanut. Laitan kevennyksenä linkin videoon aiheesta (löytyy jostain kohtaa tätä README-tiedostoa, joten jatka vain lukemista).
 
-Opiskeluissa ja omissa projekteissa on tullut testattua yhtä sun toista, ja nyt **sormet syyhyävät päästä tositoimiin**: tekemään, oppimaan ja samalla takomaan yritykselle läjäpäin euroja sinne kuuluisan viivan alle.
+Opiskeluissa ja omissa projekteissa on tullut testattua yhtä sun toista, ja nyt **sormet syyhyävät päästä tositoimiin**: tekemään, oppimaan ja samalla takomaan yritykselle läjäpäin euroja sinne kuuluisan viivan alle. 💰 🚀 👊
 
 ---
 
