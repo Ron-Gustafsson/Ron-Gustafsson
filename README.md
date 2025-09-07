@@ -20,7 +20,7 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 
 > **"Miksi tehdä työ hyvin, kun sen voi tehdä täydellisesti?"** 🫵  
 
-> **Tavoitteena seuraavaksi oppia alalla työskentelystä ja tulla Full-Stack-kehittäjäksi**
+> **Tavoitteena on seuraavaksi kartuttaa kokemusta alalta ja kasvaa ensin Full-Stack-kehittäjäksi. Jos homma nappaa tosissaan ja palaset loksahtavat kohdilleen, olen laskeskellut urasuunnitelmassani, että ohjelmistoarkkitehdiksi voisi edetä nopeimmillaan 10–12 vuodessa. Onhan tässä kuitenkin vielä reilut 30 vuotta työuraa edessä.**
 
 ---
 
@@ -29,10 +29,13 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 - **ohjelmisto- ja sovelluskehityksestä**
 - **web-teknologioista**
 - **datan ja analytiikan hyödyntämisestä**
-- **liiketaloudesta ja digitaalisen markkinoinnin hyödyntämisestä**
+- **liiketaloudesta ja digitaalisen markkinoinnin hyödyntämisestä**2
 
-🎯 Vedonlyönnin maailmassa puuhastelu on antanut minulle vahvan käytännön ymmärryksen datan merkityksestä. 
-Iltaisin lampaiden sijaan lasken kertoimia ja todennäköisyyksiä – joten voidaan kai sanoa, että **`int`** ja **`float`** ovat erityisen läheisiä ystäviäni. 😉
+🎯 Olen puuhastellut vedonlyönnin parissa sen verran pitkään, että datan merkitys liiketoiminnassa on iskostunut kalloon kovemmin kuin aamukahvi maanantaiaamuna. Etsiessäni ja säätäessäni erilaisilla ohjelmallisilla aputyökaluilla vedonlyönnin palautusprosentin ja ROI:n kasvattamiseksi, päässäni syttyi lamppu kuin majakan valo pimeänä syysiltana: halusin oppia kehittämään itse näitä työkaluja – ja vielä entistä parempia.
+
+Yrityshaaveitakin on jo paperilla liiketoimintasuunnitelman muodossa, vaikka nykyinen taloustilanne näyttää yhtä valoisalta kuin marraskuun iltapäivä Utsjoella. Mutta hei – ei lannistuta! Kuten Juti sanoisi: "mennään eteenpäin!" Nousukausi tulee aina, sen on historia kerta toisensa jälkeen todistanut. Laitan kevennyksenä linkin videoon aiheesta (löytyy jostain kohtaa tätä README-tiedostoa, joten jatka vain lukemista).
+
+Opiskeluissa ja omissa projekteissa on tullut testattua yhtä sun toista, ja nyt sormet syyhyävät päästä tositoimiin: tekemään, oppimaan ja samalla takomaan yritykselle läjäpäin euroja sinne kuuluisan viivan alle.
 
 ---
 
@@ -159,7 +162,9 @@ Iltaisin lampaiden sijaan lasken kertoimia ja todennäköisyyksiä – joten voi
   **Voit nykäistä hihasta LinkedInissä tai laittaa viestiä – vastaan aina kun en likaa käsiäni ulkohommissa!!**
 ---
 
-## 🤓 Fun fact
+## Jos jaksoit tänne asti lukea löpinöitäni niin kiitos siitä! Tuosta pieni loppukevennys. 🤓
 <p align="center">
   <img src="./dev_vitsi.png" alt="Dark mode -vitsi" width="600"  height="700">
 </p>
+
+[👉 Klikkaa tästä yrittäjän elämään Suomessa](https://www.youtube.com/watch?v=tE9KRwSx48U)
