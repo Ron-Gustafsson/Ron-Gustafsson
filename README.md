@@ -35,11 +35,11 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 
 🎯 Olen puuhastellut vedonlyönnin parissa sen verran pitkään, että **datan merkitys liiketoiminnassa** on iskostunut kalloon kovemmin kuin aamukahvi maanantaiaamuna. Yksi asia tuli selväksi: data ratkaisee. Excelin taulukot ja kymmenet erilaiset työkalut auttoivat puristamaan parempia palautusprosentteja ja kovempaa ROI:ta – mutta usein jäin kaipaamaan käyttämiltäni sovelluksilta ja työkaluilta enemmän.  
 
-Sitten välähti, kuin majakan valo illan hämärtyessä: *entä jos voisin rakentaa nämä työkalut itse – vielä tehokkaampina ja juuri omiin tarpeisiin sopivina?*  
+Sitten välähti, kuin majakan valon syttyessä illan hämärtyessä: *entä jos voisin rakentaa nämä työkalut itse – vielä tehokkaampina ja juuri omiin tarpeisiin sopivina?*  
 
 Tuo oivallus johdatti minut ohjelmistokehityksen opintoihin, ja siitä asti suunta on ollut selvä: **kehittää ratkaisuja, jotka tekevät arjesta helpompaa ja tuloksista parempia, tehokkaampia ja tuottavampia.**  
 
-Yrityshaaveitakin löytyy jo pdf:nä liiketoimintasuunnitelman muodossa, vaikka tämänhetkinen taloustilanne näyttää yhtä iloiselta kuin marraskuun iltapäivä Utsjoella. Mutta hei – ei lannistuta! Kuten Juti sanoisi:  
+Yrityshaaveitakin löytyy jo paperilta liiketoimintasuunnitelman muodossa, vaikka tämänhetkinen Suomen taloustilanne näyttää yhtä valoisalta kuin marraskuun iltapäivä Utsjoella. Mutta hei – ei lannistuta! Kuten Juti sanoisi:  
 
 > ✊ *"Mennään eteenpäin!"*  
 
@@ -67,15 +67,17 @@ Nyt **sormet syyhyävät tositoimiin**: tekemään, oppimaan ja takomaan yrityks
 - Microsoft 365 Copilot  
 - AI-työkalut (mm. ChatGPT, Gemini, Copilot)
 
-### 🌐 Web-kehitys  
+### 🌐 Web-kehitys Front-End
 - HTML  
 - CSS  
 - Bootstrap  
 - JavaScript  
-- jQuery  
-- PHP
+- jQuery
+- WordPress  
+- WooCommerce
 
-### ⚙️ Backend & tietokannat  
+### ⚙️ Backend & tietokannat
+- PHP
 - Python  
 - SQL  
 - MySQL  
@@ -93,10 +95,9 @@ Nyt **sormet syyhyävät tositoimiin**: tekemään, oppimaan ja takomaan yrityks
   
 **Seuraavaksi**
 
-- **React**
-- **Django**
-- **WordPress & WooCommerce**
-- **MOOC - Full Stack open**
+- React
+- Django?
+- MOOC - Full Stack open
 
 ---
 
@@ -179,4 +180,4 @@ Nyt **sormet syyhyävät tositoimiin**: tekemään, oppimaan ja takomaan yrityks
   <img src="./dev_vitsi.png" alt="Dark mode -vitsi" width="600"  height="700">
 </p>
 
-[👉 Klikkaa tästä yrittäjän elämään Suomessa](https://www.youtube.com/watch?v=tE9KRwSx48U)
+[👉 Klikkaa tästä yrittäjän arkeen Suomessa](https://www.youtube.com/watch?v=tE9KRwSx48U) 😉
