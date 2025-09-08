@@ -20,7 +20,7 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 
 > **"Miksi tehdä työ hyvin, kun sen voi tehdä täydellisesti?"** 🫵  
 
-> **Tavoitteena on seuraavaksi kartuttaa kokemusta alalta ja kasvaa ensin Full-Stack-kehittäjäksi. Jos homma nappaa tosissaan ja palaset loksahtavat kohdilleen, olen laskeskellut urasuunnitelmassani, että ohjelmistoarkkitehdiksi voisi edetä nopeimmillaan 10–12 vuodessa. Onhan tässä kuitenkin vielä reilut 30 vuotta työuraa edessä.**
+> **Tavoitteena on seuraavaksi kartuttaa kokemusta alalta ja kasvaa ensin Full-Stack-kehittäjäksi. Jos palikat loksahtavat täydellisesti kohdilleen, olen laskeskellut urasuunnitelmassani, että ohjelmistoarkkitehdiksi voisi edetä nopeimmillaan 10–12 vuodessa. Onhan tässä kuitenkin vielä noin 30 vuotta työuraa edessä.**
 
 ---
 
@@ -29,13 +29,21 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 - **ohjelmisto- ja sovelluskehityksestä**
 - **web-teknologioista**
 - **datan ja analytiikan hyödyntämisestä**
-- **liiketaloudesta ja digitaalisen markkinoinnin hyödyntämisestä**2
+- **liiketaloudesta ja digitaalisen markkinoinnin hyödyntämisestä**
 
-🎯 Olen puuhastellut vedonlyönnin parissa sen verran pitkään, että **datan merkitys liiketoiminnassa** on iskostunut kalloon kovemmin kuin aamukahvi maanantaiaamuna. Etsiessäni ja säätäessäni erilaisilla ohjelmallisilla aputyökaluilla vedonlyönnin **palautusprosentin** ja **ROI:n** kasvattamiseksi, päässäni syttyi lamppu kuin majakan valo pimeänä syysiltana: halusin oppia kehittämään itse näitä työkaluja – ja vielä entistä parempia.
+🎯 Olen puuhastellut vedonlyönnin parissa sen verran pitkään, että **datan merkitys liiketoiminnassa** on iskostunut kalloon kovemmin kuin aamukahvi maanantaiaamuna. Yksi asia tuli selväksi: data ratkaisee. Excelin taulukot ja kymmenet erilaiset työkalut auttoivat puristamaan parempia palautusprosentteja ja kovempaa ROI:ta – mutta usein jäin kaipaamaan käyttämiltäni sovelluksilta ja työkaluilta enemmän.  
 
-Yrityshaaveitakin on jo paperilla liiketoimintasuunnitelman muodossa, vaikka nykyinen taloustilanne näyttää yhtä valoisalta kuin marraskuun iltapäivä Utsjoella. Mutta hei – ei lannistuta! Kuten Juti sanoisi: "mennään eteenpäin!" Nousukausi tulee aina, sen on historia kerta toisensa jälkeen todistanut. Laitan kevennyksenä linkin videoon aiheesta (löytyy jostain kohtaa tätä README-tiedostoa, joten jatka vain lukemista).
+Sitten välähti, kuin majakan valo illan hämärässä: *entä jos voisin rakentaa nämä työkalut itse – vielä tehokkaampina ja juuri omiin tarpeisiin sopivina?*  
 
-Opiskeluissa ja omissa projekteissa on tullut testattua yhtä sun toista, ja nyt **sormet syyhyävät päästä tositoimiin**: tekemään, oppimaan ja samalla takomaan yritykselle läjäpäin euroja sinne kuuluisan viivan alle. 💰 🚀 👊
+Tuo oivallus johdatti minut ohjelmistokehityksen opintoihin, ja siitä asti suunta on ollut selvä: **kehittää ratkaisuja, jotka tekevät arjesta helpompaa ja tuloksista parempia, tehokkaampia ja tuottavampia.**  
+
+Yrityshaaveitakin löytyy jo paperilta liiketoimintasuunnitelman muodossa, vaikka tämänhetkinen taloustilanne näyttää yhtä iloiselta kuin marraskuun iltapäivä Utsjoella. Mutta hei – ei lannistuta! Kuten Juti sanoisi:  
+
+> ✊ *"Mennään eteenpäin!"*  
+
+Nousukausi tulee aina – historia on sen kerta toisensa jälkeen todistanut. Laitan kevennyksenä linkin "Yrittämisestä Suomessa", joka löytyy jostain kohtaa tätä readme filua, joten jatka vain lukemista. 😉
+
+Nyt **sormet syyhyävät tositoimiin**: tekemään, oppimaan ja takomaan yritykselle euroja sinne kuuluisan viivan alle. 💰🚀👊
 
 ---
 
