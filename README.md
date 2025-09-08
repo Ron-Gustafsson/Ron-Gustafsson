@@ -106,9 +106,9 @@ Nyt **sormet syyhyävät tositoimiin**: tekemään, oppimaan ja takomaan yrityks
 ### 🌐 WordPress & 🛒 WooCommerce Training
 🔗 [GitHub repo](https://github.com/Ron-Gustafsson/wordpress-woocommerce-training)  
 
-🗂️ A study project focused on learning WordPress and WooCommerce by building test sites and experimenting with key tools.  
-🎬 The e-commerce theme was chosen around movies, combining my passion for films with hands-on practice.  
-🛠️ Included experimenting with themes, plugins, SEO, backups, and site structure to gain a practical understanding of website and online store development.
+🗂️ Opintoprojekti, jossa harjoittelin WordPressin ja WooCommercen käyttöä rakentamalla testisivustoja ja kokeilemalla keskeisiä työkaluja.  
+🎬 Verkkokaupan teemaksi valikoitui elokuvat, mikä yhdisti oman intohimoni ja käytännön harjoittelun.  
+🛠️ Projektiin sisältyi teemojen, lisäosien, SEO:n, varmuuskopioinnin ja sivustorakenteen testailua, jotta sain käytännön kokemusta verkkosivujen ja -kauppojen kehittämisestä. 
 
 ---
 
@@ -127,7 +127,7 @@ Nyt **sormet syyhyävät tositoimiin**: tekemään, oppimaan ja takomaan yrityks
 📸 [Katso galleria tästä](https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/see_pictures_here.md)
 
 🎨 Tekoälyllä luotujen taideteosten kokoelma — yhdistelmä uteliaisuutta ja luovuutta, jossa ideat heräävät eloon tarkoin hiotuin promptein.  
-✨ Galleriaa täydennetään jatkuvasti uusilla visuaalisilla kokeiluilla.
+✨ Galleriaa täydennetään uusilla visuaalisilla kokeiluilla, kun aikatauluni antavat myöten.
 
 ---
 
