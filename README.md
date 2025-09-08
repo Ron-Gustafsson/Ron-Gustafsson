@@ -7,7 +7,7 @@
 
 ---
 
-## 💡 Minusta lyhyesti
+### 💡 Minusta lyhyesti
 
 Olen ohjelmistokehitystä opiskeleva alanvaihtaja, jota motivoi  **jatkuva oppiminen** ja **innostus kehittää ratkaisuja**, joilla on aitoa arvoa loppukäyttäjälle.
 
@@ -31,19 +31,23 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 - **datan ja analytiikan hyödyntämisestä**
 - **liiketaloudesta ja digitaalisen markkinoinnin hyödyntämisestä**
 
+### 🚀 Mistä kaikki alkoi
+
 🎯 Olen puuhastellut vedonlyönnin parissa sen verran pitkään, että **datan merkitys liiketoiminnassa** on iskostunut kalloon kovemmin kuin aamukahvi maanantaiaamuna. Yksi asia tuli selväksi: data ratkaisee. Excelin taulukot ja kymmenet erilaiset työkalut auttoivat puristamaan parempia palautusprosentteja ja kovempaa ROI:ta – mutta usein jäin kaipaamaan käyttämiltäni sovelluksilta ja työkaluilta enemmän.  
 
-Sitten välähti, kuin majakan valo illan hämärässä: *entä jos voisin rakentaa nämä työkalut itse – vielä tehokkaampina ja juuri omiin tarpeisiin sopivina?*  
+Sitten välähti, kuin majakan valo illan hämärtyessä: *entä jos voisin rakentaa nämä työkalut itse – vielä tehokkaampina ja juuri omiin tarpeisiin sopivina?*  
 
 Tuo oivallus johdatti minut ohjelmistokehityksen opintoihin, ja siitä asti suunta on ollut selvä: **kehittää ratkaisuja, jotka tekevät arjesta helpompaa ja tuloksista parempia, tehokkaampia ja tuottavampia.**  
 
-Yrityshaaveitakin löytyy jo paperilta liiketoimintasuunnitelman muodossa, vaikka tämänhetkinen taloustilanne näyttää yhtä iloiselta kuin marraskuun iltapäivä Utsjoella. Mutta hei – ei lannistuta! Kuten Juti sanoisi:  
+Yrityshaaveitakin löytyy jo pdf:nä liiketoimintasuunnitelman muodossa, vaikka tämänhetkinen taloustilanne näyttää yhtä iloiselta kuin marraskuun iltapäivä Utsjoella. Mutta hei – ei lannistuta! Kuten Juti sanoisi:  
 
 > ✊ *"Mennään eteenpäin!"*  
 
-Nousukausi tulee aina – historia on sen kerta toisensa jälkeen todistanut. Laitan kevennyksenä linkin "Yrittämisestä Suomessa", joka löytyy jostain kohtaa tätä readme filua, joten jatka vain lukemista. 😉
+Nousukausi tulee aina – historia on sen kerta toisensa jälkeen todistanut.
 
-Nyt **sormet syyhyävät tositoimiin**: tekemään, oppimaan ja takomaan yritykselle euroja sinne kuuluisan viivan alle. 💰🚀👊
+Nyt **sormet syyhyävät tositoimiin**: tekemään, oppimaan ja takomaan yritykselle euroja sinne kuuluisan viivan alle. 💰 🚀 👊
+
+*Laitan kevennyksenä linkin "Yrittäjän arjesta Suomessa", joka löytyy jostain kohtaa tätä readme filua, joten jatka vain lukemista. 😉*
 
 ---
 
