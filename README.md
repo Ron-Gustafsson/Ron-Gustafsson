@@ -103,6 +103,15 @@ Nyt **sormet syyhyävät tositoimiin**: tekemään, oppimaan ja takomaan yrityks
 
 ## 🚀 Projekteja
 
+### 🌐 WordPress & 🛒 WooCommerce Training
+🔗 [GitHub repo](https://github.com/Ron-Gustafsson/wordpress-woocommerce-training)  
+
+🗂️ A study project focused on learning WordPress and WooCommerce by building test sites and experimenting with key tools.  
+🎬 The e-commerce theme was chosen around movies, combining my passion for films with hands-on practice.  
+🛠️ Included experimenting with themes, plugins, SEO, backups, and site structure to gain a practical understanding of website and online store development.
+
+---
+
 ### 📄 Resume Management
 🔗 [GitHub-repo](https://github.com/Ron-Gustafsson/resume-database) 
 
