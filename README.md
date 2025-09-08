@@ -30,7 +30,7 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 - **web-teknologioista**
 - **datan ja analytiikan hyödyntämisestä**
 - **liiketaloudesta ja digitaalisen markkinoinnin hyödyntämisestä**
-
+---
 ### 🚀 Mistä kaikki alkoi
 
 🎯 Olen puuhastellut vedonlyönnin parissa sen verran pitkään, että **datan merkitys liiketoiminnassa** on iskostunut kalloon kovemmin kuin aamukahvi maanantaiaamuna. Yksi asia tuli selväksi: data ratkaisee. Excelin taulukot ja kymmenet erilaiset työkalut auttoivat puristamaan parempia palautusprosentteja ja kovempaa ROI:ta – mutta usein jäin kaipaamaan käyttämiltäni sovelluksilta ja työkaluilta enemmän.  
