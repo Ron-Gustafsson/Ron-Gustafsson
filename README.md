@@ -18,7 +18,7 @@ Nopeus on tärkeää – mutta ei koskaan laadun kustannuksella.
 
 Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harkittuja ratkaisuja – ja samalla varmistaa, että aikaa ja resursseja käytetään viisaasti.
 
-> **"Miksi tehdä työ hyvin, kun sen voi tehdä täydellisesti?"** 🫵  
+> **"Hyvin tehty on odotusarvo. Huippuunsa hiottu on kilpailuetu"** 🫵  
 
 > **Tavoitteena on seuraavaksi kartuttaa kokemusta alalta ja kasvaa ensin Full-Stack-kehittäjäksi. Jos palikat loksahtavat täydellisesti kohdilleen, olen laskeskellut urasuunnitelmassani, että ohjelmistoarkkitehdiksi voisi edetä nopeimmillaan 10–12 vuodessa. Onhan tässä kuitenkin vielä noin 30 vuotta työuraa edessä.**
 
@@ -29,7 +29,8 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 - **ohjelmisto- ja sovelluskehityksestä**
 - **web-teknologioista**
 - **datan ja analytiikan hyödyntämisestä**
-- **liiketaloudesta ja digitaalisen markkinoinnin hyödyntämisestä**
+- **liiketaloudesta ja digitaalisesta markkinoinnista**
+- **tekoälyn ja automaation soveltamisesta edellä mainittuihin**
 ---
 ### 🚀 Mistä kaikki alkoi
 
