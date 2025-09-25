@@ -20,7 +20,7 @@ Tavoitteeni on ymmärtää asiakkaan todelliset tarpeet, kehittää niihin harki
 
 > **"Hyvin tehty on odotusarvo. Huippuunsa hiottu on kilpailuetu"** 🫵  
 
-> **Tavoitteena on seuraavaksi kartuttaa kokemusta alalta ja kasvaa ensin Full-Stack-kehittäjäksi. Jos palikat loksahtavat täydellisesti kohdilleen, olen laskeskellut urasuunnitelmassani, että johtavaksi ohjelmistoarkkitehdiksi voisi edetä noin 10:ssä vuodessa, riippuen organisaation koosta. Onhan tässä kuitenkin vielä noin 30 vuotta työuraa edessä.**
+> **Tavoitteena on seuraavaksi kartuttaa kokemusta alalta ja kasvaa ensin Full-Stack-kehittäjäksi. Jos palikat loksahtavat täydellisesti kohdilleen, olen laskeskellut urasuunnitelmassani, että johtavaksi ohjelmistoarkkitehdiksi voisi edetä noin 10:ssä vuodessa, riippuen organisaation koosta. Uskon siihen tarvittavan osaamisen karttuvan kohdallani suhteellisen ripeästi. Työuraa on kumminkin vielä noin 30 vuotta jäljellä.**
 
 ---
 
