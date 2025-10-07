@@ -113,7 +113,7 @@ Nyt **sormet syyhyävät tositoimiin**: tekemään, oppimaan ja takomaan yrityks
 
 ---
 
-### 📄 Resume Management
+### 📄 Resume Management Application (Ansioluetteloiden Hallintaohjelma)
 🔗 [GitHub-repo](https://github.com/Ron-Gustafsson/resume-database) 
 
 🗂️ PHP- ja MySQL-pohjainen järjestelmä, jolla hallitaan käyttäjäprofiileja, työkokemuksia ja koulutustietoja.  
@@ -122,7 +122,7 @@ Nyt **sormet syyhyävät tositoimiin**: tekemään, oppimaan ja takomaan yrityks
 
 ---
 
-### 🖼️ AI Art Gallery  
+### 🖼️ AI Art Gallery (AI Taide Galleria)
 🔗 [Ai-Art-Gallery (github repo)](https://github.com/Ron-Gustafsson/ai-art-gallery)
 
 📸 [Katso galleria tästä](https://github.com/Ron-Gustafsson/ai-art-gallery/blob/main/see_pictures_here.md)
@@ -159,7 +159,7 @@ Nyt **sormet syyhyävät tositoimiin**: tekemään, oppimaan ja takomaan yrityks
 
 ---
 
-### 🌐 Oma sivusto
+### 🌐 Training Own website (Oma sivusto)
 🔗 [Katso julkaistu sivu tästä](https://ron-gustafsson.github.io/oma-sivusto/)
 
 🗂️ **Teknologiat:** HTML · CSS · JavaScript · Bootstrap
