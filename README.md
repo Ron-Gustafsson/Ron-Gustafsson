@@ -132,7 +132,7 @@ Nyt **sormet syyhyävät tositoimiin**: tekemään, oppimaan ja takomaan yrityks
 
 ---
 
-### 🧠 Opintosuoritusote-ohjelma
+### 🎓 Study Record Management System (Opintosuoritusote)
 🔗 [GitHub-repo](https://github.com/Ron-Gustafsson/opintosuoritusote-ohjelma)   
 
 🗂️ **Teknologiat:** Python · JSON 
@@ -150,7 +150,7 @@ Nyt **sormet syyhyävät tositoimiin**: tekemään, oppimaan ja takomaan yrityks
 
 ---
 
-### 🧮 Betting Stake Calculator  
+### 🧮 Betting Stake Calculator (Vedonlyönnin Panoslaskuri)
 🔗 [GitHub-repo](https://github.com/Ron-Gustafsson/betting-stake-calculator)  
 
 🗂️ **Teknologiat:** Python  
