@@ -159,7 +159,7 @@ Nyt **sormet syyhyävät tositoimiin**: tekemään, oppimaan ja takomaan yrityks
 
 ---
 
-### 🌐 Training Own website (Oma sivusto)
+### 🌐 Training Own Website (Harjoitus Oma sivusto)
 🔗 [Katso julkaistu sivu tästä](https://ron-gustafsson.github.io/oma-sivusto/)
 
 🗂️ **Teknologiat:** HTML · CSS · JavaScript · Bootstrap
