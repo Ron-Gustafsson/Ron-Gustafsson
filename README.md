@@ -66,7 +66,7 @@ Nyt **sormet syyhyävät tositoimiin**: tekemään, oppimaan ja takomaan yrityks
 
 ### 📄 Toimisto & tuottavuus  
 - Microsoft 365 Copilot  
-- AI-työkalut (mm. ChatGPT, Gemini, Copilot)
+- AI-työkalut (mm. ChatGPT, Gemini, Copilot, Claude ja LUMO (turvallinen ja yksityinen tekoäly)
 
 ### 🌐 Web-kehitys Front-End
 - HTML  
