@@ -60,13 +60,11 @@ Nyt **sormet syyhyävät tositoimiin**: tekemään, oppimaan ja takomaan yrityks
 - Linux (Ubuntu)  
 
 ### 🛠 Kehitysympäristöt & palvelut
-- 🖥️ Oracle VM VirtualBox
-- 📦 XAMPP  
-- 🌐 Ngrok 
-
-### 📄 Toimisto & tuottavuus  
-- Microsoft 365 Copilot  
-- AI-työkalut (mm. ChatGPT, Gemini, Copilot, Claude ja LUMO (turvallinen ja yksityinen tekoäly)
+- Oracle VM VirtualBox
+- XAMPP  
+- Ngrok
+- Node.js
+- Vite (React-kehitysympäristö)
 
 ### 🌐 Web-kehitys Front-End
 - HTML  
@@ -76,6 +74,7 @@ Nyt **sormet syyhyävät tositoimiin**: tekemään, oppimaan ja takomaan yrityks
 - jQuery
 - WordPress  
 - WooCommerce
+- React & JSX
 
 ### ⚙️ Backend & tietokannat
 - PHP
@@ -84,21 +83,26 @@ Nyt **sormet syyhyävät tositoimiin**: tekemään, oppimaan ja takomaan yrityks
 - MySQL  
 - MariaDB  
 - phpMyAdmin
-
-### 🎮 Pelikehitys  
-- Pygame  
-- Phaser
+- REST API
 
 ### 🔧 Versionhallinta & työkalut  
 - Git  
 - GitHub  
 - VS Code
+- Browser Developer Tools
+
+### 📄 Toimisto & tuottavuus  
+- Microsoft 365 Copilot  
+- AI-työkalut (mm. ChatGPT, Gemini, Copilot, Claude ja LUMO (turvallinen ja yksityinen tekoäly)
+
+### 🎮 Pelikehitys  
+- Pygame  
+- Phaser
   
 **Seuraavaksi**
 
 - React
-- Django?
-- MOOC - Full Stack open
+- MOOC - Full Stack open (suorituksessa)
 
 ---
 
