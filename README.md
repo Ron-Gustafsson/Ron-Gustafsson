@@ -9,7 +9,7 @@
 
 ### 💡 Minusta lyhyesti
 
-Olen ohjelmistokehitystä opiskeleva alanvaihtaja (Hyria, Open University of Helsinki), jota motivoi  **jatkuva oppiminen** ja **innostus kehittää ratkaisuja**, joilla on aitoa arvoa loppukäyttäjälle. Olen parhaillaan työharjoittelussa Tutorsilla (5 kk), jossa toimin tiimimme projektissa Full Stack kehittäjänä. Työskentelen Suomessa etänä kansainvälisessä työyhteisössä sekä Espanjassa co-working tilassamme Malagassa. Siellä opin lisää kansainväliseen työyhteisöön kuulumisesta ja saan lisää varmuutta ja kokemusta kielitaidosta.
+Olen ohjelmistokehitystä opiskeleva alanvaihtaja (Hyria & Open University of Helsinki), jota motivoi  **jatkuva oppiminen** ja **innostus kehittää ratkaisuja**, joilla on aitoa arvoa loppukäyttäjälle. Olen parhaillaan työharjoittelussa Tutorsilla (5 kk), jossa toimin tiimimme projektissa Full Stack kehittäjänä. Työskentelen Suomessa etänä kansainvälisessä työyhteisössä sekä Espanjassa co-working tilassamme Malagassa. Siellä opin lisää kansainväliseen työyhteisöön kuulumisesta ja saan lisää varmuutta ja kokemusta kielitaidosta.
 
 Uskon, että **suunnitelmallisuus, laatu ja käyttäjäkeskeinen kehitys**  ovat avaimia kestävään ohjelmistokehitykseen.
 
